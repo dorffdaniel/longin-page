@@ -97,6 +97,13 @@ body{
     font-size: 16px;
     color: #333;
     font-weight: 600;
+    transition: all ease-in-out 0.4s;
+}
+
+.wrapper .btn:hover{
+    background: #781de8;
+    color: #fff;
+    font-size: 17px;
 }
 
 .wrapper .register-link{
