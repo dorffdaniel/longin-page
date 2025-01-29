@@ -4,7 +4,7 @@ pretty cool
 ## About my page
 i hope you like 
 
- [<img src="page.gif">]
+<img src="imagem/design.gif">
 
 ## What have I learned?
 Use transparency in content
