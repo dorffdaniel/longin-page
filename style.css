@@ -166,7 +166,12 @@ body{
     width: 14em;
 }
 
-.conteudo-cadastrar .btnLogin{
+.conteudoCadastrarBotoes{
+    display: flex;
+    justify-content: space-around;
+}
+
+.conteudo-cadastrar .btnLogin, .btnEnviar{
     background: transparent;
     border: 2px solid #fff;
     color: #fff;
@@ -176,7 +181,7 @@ body{
     transition: all ease 0.4s;
 }
 
-.conteudo-cadastrar .btnLogin:hover{
+.conteudo-cadastrar .btnLogin:hover, .btnEnviar:hover{
     background: #fff;
     color: #781de8;
     transition: all ease 0.4s;
